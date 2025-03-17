@@ -101,6 +101,21 @@
         "buytext": "$9.99 monthly"
     },
     {
+        "name": "Ember",
+        "pros": ["93% sUNC [94% UNC]", "Level 8"],
+        "neutral": ["Has a key system"],
+        "cons": [],
+        "link": "https://www.getember.net",
+        "linkprotected": "https://www.getember.net",
+        "buttonText": "Website",
+        "types": ["unc", "windows"],
+        "unc": "/assets/unc/ember.json",
+        "lastEditedBy": "setthreadcontext",
+        "lastEditedByImage": "assets/verified.png",
+        "buylink": "https://www.getember.net/purchase",
+        "buytext": "$4.99 Weekly"
+    },
+    {
         "name": "Cryptic",
         "pros": ["100% UNC [98% sUNC]", "Level 8"],
         "neutral": ["Has a keysystem"],
